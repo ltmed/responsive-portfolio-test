@@ -3,10 +3,10 @@
 Hello, I'm
 
 .home__name
-Ansel Klee
+Mehdi Erdem Dede
 
 .home__education
-Frontend Developer
+Full Stack Developer
 
 .home__social-link
 https://www.linkedin.com/
